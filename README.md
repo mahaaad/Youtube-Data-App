@@ -3,3 +3,4 @@ React.js web app which extracts user watch data from Youtube Data API V3 to visu
 Utilized d3.js and chart.js for displaying statistics
 ![image](https://i.imgur.com/EemQ2bd.png)
 ![image](https://i.imgur.com/kMtNweH.png)
+![image](https://i.imgur.com/AvBmcxX.png)
